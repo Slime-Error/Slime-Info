@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuzi1221
+- 👋 Hi, I’m Sophie
 - 👀 I do Coding and Art
 - 📫 How to reach me. [SlimeBall Sophie#2084] on Discord
 
