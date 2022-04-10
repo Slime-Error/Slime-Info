@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Yuzi1221
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... SlimeBall Sophie#2084 on Discord
+- 👀 I do Coding and Art
+- 📫 How to reach me. [SlimeBall Sophie#2084] on Discord
 
 <!---
 Yuzi1221/Yuzi1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
