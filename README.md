@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Sophie
-- 👀 I do Coding and Art
-- 📫 How to reach me. [SlimeBall Sophie#2084] on Discord
-
-<!---
-Yuzi1221/Yuzi1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hey, I’m Stella, might have a little sticky and goey personallity though + Stella is a Node.js Expert
+- 👀 I am a Streamer, V-Tuber, 3D Content Creator, 2D Digital Artist, Youtube Content Creator, Music Artist, Code Developer
+- 📫 How to reach me. [Slimeball Stella#2084] on Discord or join our community [https://discord.gg/n64SjVbrpD]
